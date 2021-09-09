@@ -1,7 +1,7 @@
 # NOTAS:
 
-Este es mi primer programa en Node/ This is my firts program in Node
-Es una aplicación de las tablas de multiplicar.
+Este es mi primer programa en Node/ This is my firts program in Node. 
+Es una aplicación de las tablas de multiplicar. Está desarrollado en Node.js
 ```
 Opciones:
       --help     Muestra ayuda                                        [booleano]
